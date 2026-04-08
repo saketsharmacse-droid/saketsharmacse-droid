@@ -12,8 +12,6 @@ I’m a full-stack developer and AI/ML enthusiast who enjoys building scalable, 
 ![](https://nirzak-streak-stats.vercel.app/?user=saketsharmacse-droid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saketsharmacse-droid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saketsharmacse-droid&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
