@@ -25,5 +25,8 @@ I’m a full-stack developer and AI/ML enthusiast who enjoys building scalable, 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saketsharma2003) 
 
+## Profile Visitors:
+![Profile Views](https://komarev.com/ghpvc/?username=saketsharmacse-droid&label=Visitors&color=0e75b6&style=flat)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
