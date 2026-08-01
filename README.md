@@ -25,7 +25,7 @@ I’m a full-stack developer and AI/ML enthusiast who enjoys building scalable, 
 
 
 ### ✍️ Random Dev Quote
-                                          ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saketsharmacse-droid&limit=5&theme=dark&combine_all_yearly_contributions=true)
